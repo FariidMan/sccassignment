@@ -1,0 +1,42 @@
+html {
+    background-color : yellow;
+}
+
+body {
+    height : 100vh;
+    
+        display : flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
+.card {
+    width : 317px;
+    background-color : white;
+    padding: 16px 16px 40px 16px;
+    border-radius : 16px;
+
+
+}
+
+img { 
+    width: 100%;
+    border-radius : 16px;
+}
+b  {
+background-color: yellow;
+text-align: left;
+padding-left: 9px;
+padding-right: 9px;
+padding-top: 6px;
+padding-bottom: 6px;
+}
+h1 {
+    font-size: 24px;
+    text-align: left;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
